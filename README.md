@@ -19,8 +19,8 @@ Welcome to my world !
 
 
 ## GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbguirado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbguirado&show_icons=true&theme=radical)
  
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=bbguirado&hide=html&layout=compact&theme=radical)](https://github.com/bbguirado/github-readme-stats)
+
